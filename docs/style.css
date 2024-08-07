@@ -139,3 +139,7 @@ img.youtube {
     content: url("https://img.shields.io/badge/YouTube-link?style=plastic&logo=youtube&logoColor=red&labelColor=grey&color=red");
     height: 24px;
 }
+
+footer{
+    margin-bottom: 0;
+}
