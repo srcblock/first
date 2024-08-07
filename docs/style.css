@@ -47,7 +47,8 @@ h2 {
     background-color: white;
     max-width: 1080px;
     margin: auto;
-    padding: 25px 45px;
+    padding: 0 45px;
+    margin-bottom: 0;
 }
 
 .new-section {
