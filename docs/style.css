@@ -140,9 +140,11 @@ img.youtube {
     height: 24px;
 }
 
-@media screen and (max-width: 767px){
-body {
-width:100%;
+@media screen and (max-width: 720px){
+html,body {
+    margin: 0;
+    padding: 0;
+    width:100%;
    overflow-x:hidden;
 
 }
