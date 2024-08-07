@@ -59,11 +59,6 @@ function firstSection() {
     <p>The animation scenes are rendered from Python scripts using Manim in Jupyter Notebook on Google Colab.</p>
 
     
-    <div style="display: flex; align-items: center;">
-        <a href="https://colab.curiouswalk.com/manim"><img src="https://img.shields.io/badge/Manim_in_Colab-link?style=flat&logo=googlecolab&labelColor=grey&color=blue"></a>
-        <a href="https://colab.curiouswalk.com/manim">&nbsp;colab.curiouswalk.com/manim</a>
-    </div> 
-
     <a href="https://colab.curiouswalk.com/manim"><img src="https://img.shields.io/badge/Manim_in_Colab-link?style=flat&logo=googlecolab&labelColor=grey&color=blue" style="float:left; margin-right: 25px;">
     &nbsp;colab.curiouswalk.com/manim</a>
 
