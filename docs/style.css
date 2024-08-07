@@ -139,12 +139,3 @@ img.youtube {
     content: url("https://img.shields.io/badge/YouTube-link?style=plastic&logo=youtube&logoColor=red&labelColor=grey&color=red");
     height: 24px;
 }
-
-@media screen and (max-width: 720px){
-html,body {
-    margin: 0;
-    padding: 0;
-    width:100%;
-   overflow-x:hidden;
-
-}
